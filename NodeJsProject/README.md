@@ -1,2 +1,0 @@
-# NodeJsProject
-an ecommerce project
